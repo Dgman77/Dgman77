@@ -93,7 +93,7 @@ Geospatial ML pipeline recommending optimal quick-commerce dark store locations 
 
 **Stack:** GeoPandas · OSMnx · H3 · Scikit-learn · Streamlit
 
-🔗 [GitHub Repo](https://dark--store.streamlit.app/)
+🔗 [Live_demo](https://dark--store.streamlit.app/)
 
 </td>
 <td width="50%" valign="top">
