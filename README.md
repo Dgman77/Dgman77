@@ -1,14 +1,14 @@
 <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1F3864,100:4A90D9&amp;height=200&amp;section=header&amp;text=David%20Gideon%20J&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20GenAI%20Developer%20%7C%20Building%20Real%2C%20Working%20Systems&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=1F3864&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=RAG+Pipelines+%7C+FAISS+%7C+LLM+Fine-Tuning;Building+Offline-First+AI+Systems;Turning+Prototypes+Into+Deployed+Products" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dg26)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-psi-peach-13.vercel.app)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdgideon79@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/dg26)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://portfolio-psi-peach-13.vercel.app)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:jdgideon79@gmail.com)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a final-year **B.E. CSE (AI & ML)** student who'd rather ship something real than leave it half-built on Colab. My work spans **Generative AI / RAG systems**, applied **machine learning**, and full end-to-end deployment — I don't consider a project done until it's actually running somewhere, not just working once on my laptop.
+I'm a final-year **B.E. CSE (AI &amp; ML)** student who'd rather ship something real than leave it half-built on Colab. My work spans **Generative AI / RAG systems**, applied **machine learning**, and full end-to-end deployment — I don't consider a project done until it's actually running somewhere, not just working once on my laptop.
 
 - 🔭 Currently fine-tuning **Qwen2.5-3B-Instruct** for structured code generation (LoRA/QLoRA)
 - 🌱 Deepening my agentic AI and orchestration-framework skills
@@ -29,32 +29,32 @@ I'm a final-year **B.E. CSE (AI & ML)** student who'd rather ship something real
 
 <div align="center">
 
-**Languages & Core**
+**Languages &amp; Core**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=postgresql&amp;logoColor=white)
 
 **AI / ML / GenAI**
 
-![PyTorch](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square&logo=meta&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square&amp;logo=meta&amp;logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white)
 
-**Backend & Deployment**
+**Backend &amp; Deployment**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)
 ![HuggingFaceSpaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat-square)
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&amp;logo=googlecolab&amp;logoColor=white)
 
 </div>
 
@@ -81,7 +81,7 @@ USB-portable offline AI assistant. Full RAG pipeline (HyDE query rewriting, pare
 
 **Stack:** llama-cpp-python · FAISS · FastAPI · Graphviz/Viz.js
 
-🔗 [GitHub Repo](https://github.com/Dgman77/usb_llm)
+🔗 [GitHub Repo](https://github.com/Dgman77)
 
 </td>
 </tr>
@@ -93,7 +93,7 @@ Geospatial ML pipeline recommending optimal quick-commerce dark store locations 
 
 **Stack:** GeoPandas · OSMnx · H3 · Scikit-learn · Streamlit
 
-🔗 [Live demo](https://dark--store.streamlit.app/)
+🔗 [Live Demo](https://dark--store.streamlit.app/)
 
 </td>
 <td width="50%" valign="top">
