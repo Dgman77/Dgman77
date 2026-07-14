@@ -81,7 +81,7 @@ USB-portable offline AI assistant. Full RAG pipeline (HyDE query rewriting, pare
 
 **Stack:** llama-cpp-python · FAISS · FastAPI · Graphviz/Viz.js
 
-🔗 [GitHub Repo](https://github.com/Dgman77)
+🔗 [GitHub Repo](https://github.com/Dgman77/usb_llm)
 
 </td>
 </tr>
@@ -93,7 +93,7 @@ Geospatial ML pipeline recommending optimal quick-commerce dark store locations 
 
 **Stack:** GeoPandas · OSMnx · H3 · Scikit-learn · Streamlit
 
-🔗 [GitHub Repo](https://github.com/Dgman77)
+🔗 [GitHub Repo](https://dark--store.streamlit.app/)
 
 </td>
 <td width="50%" valign="top">
