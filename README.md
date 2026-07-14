@@ -1,11 +1,15 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1F3864,100:4A90D9&amp;height=200&amp;section=header&amp;text=David%20Gideon%20J&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20GenAI%20Developer%20%7C%20Building%20Real%2C%20Working%20Systems&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=1F3864&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=RAG+Pipelines+%7C+FAISS+%7C+LLM+Fine-Tuning;Building+Offline-First+AI+Systems;Turning+Prototypes+Into+Deployed+Products" alt="Typing SVG" />
+
 <br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dg26)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-psi-peach-13.vercel.app)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdgideon79@gmail.com)
- 
+
 </div>
 
 <br/>
@@ -77,7 +81,7 @@ USB-portable offline AI assistant. Full RAG pipeline (HyDE query rewriting, pare
 
 **Stack:** llama-cpp-python · FAISS · FastAPI · Graphviz/Viz.js
 
-🔗 [GitHub Repo](https://github.com/Dgman77/usb_llm)
+🔗 [GitHub Repo](https://github.com/Dgman77)
 
 </td>
 </tr>
@@ -89,7 +93,7 @@ Geospatial ML pipeline recommending optimal quick-commerce dark store locations 
 
 **Stack:** GeoPandas · OSMnx · H3 · Scikit-learn · Streamlit
 
-🔗 [Live_demo](https://dark--store.streamlit.app/)
+🔗 [GitHub Repo](https://github.com/Dgman77)
 
 </td>
 <td width="50%" valign="top">
@@ -111,17 +115,17 @@ Gen-AI email suggested-response system built for Hiver's open technical hiring c
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dgman77&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dgman77&layout=compact&hide_border=true&title_color=1F3864&text_color=333333" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dgman77&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;title_color=1F3864&amp;icon_color=1F3864&amp;text_color=333333" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dgman77&amp;layout=compact&amp;hide_border=true&amp;title_color=1F3864&amp;text_color=333333" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dgman77&hide_border=true&background=FFFFFF&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dgman77&amp;hide_border=true&amp;background=FFFFFF&amp;ring=1F3864&amp;fire=1F3864&amp;currStreakLabel=1F3864" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,100:1F3864&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4A90D9,100:1F3864&amp;height=100&amp;section=footer" width="100%"/>
 </div>
