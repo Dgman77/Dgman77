@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/Dgman77/Dgman77@main/D_G_header.svg" alt="D_G Wave" width="800"/>
-
-<img src="https://cdn.jsdelivr.net/gh/Dgman77/Dgman77@main/stats.svg"/>
+# ❚█══ D_G ══█❚
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=RAG+Pipelines+%7C+FAISS+%7C+LLM+Fine-Tuning;Building+Offline-First+AI+Systems;Turning+Prototypes+Into+Deployed+Products" alt="Typing SVG" />
 
