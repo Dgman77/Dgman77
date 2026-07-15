@@ -2,7 +2,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/Dgman77/Dgman77@main/D_G_header.svg" alt="D_G Wave" width="800"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:4A90D9&height=200&section=header&text=David%20Gideon%20J&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20GenAI%20Developer%20%7C%20Building%20Real%2C%20Working%20Systems&descAlignY=55&descSize=18" width="100%"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=RAG+Pipelines+%7C+FAISS+%7C+LLM+Fine-Tuning;Building+Offline-First+AI+Systems;Turning+Prototypes+Into+Deployed+Products" alt="Typing SVG" />
 
