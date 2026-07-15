@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="./Dgman77/D_G_header.svg" alt="D_G Header" width="800"/>
+<img src="./D_G_header.svg" alt="D_G Header" width="800"/>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1F3864,100:4A90D9&amp;height=200&amp;section=header&amp;text=David%20Gideon%20J&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20GenAI%20Developer%20%7C%20Building%20Real%2C%20Working%20Systems&amp;descAlignY=55&amp;descSize=18" width="100%"/>
