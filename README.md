@@ -1,7 +1,19 @@
 <div align="center">
   
-<img src="https://gist.github.com/Dgman77/f3da337e2a5e460f41910f0480141f6b.js" alt="D_G Wave" width="800"/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Embed Gist Example</title>
+</head>
+<body>
+  <h1>Title</h1>
 
+  <!-- This script will pull in your gist -->
+  <script src="https://gist.github.com/Dgman77/f3da337e2a5e460f41910f0480141f6b.js"></script>
+
+</body>
+</html>
 
 
 
