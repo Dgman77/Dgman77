@@ -1,12 +1,13 @@
 <div align="center">
 
-<svg width="200" height="80">
+<svg width="600" height="200">
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-size="40" fill="#000">
+        font-size="100" fill="gold" font-weight="bold">
     <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
     D_G
   </text>
 </svg>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1F3864,100:4A90D9&amp;height=200&amp;section=header&amp;text=David%20Gideon%20J&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20GenAI%20Developer%20%7C%20Building%20Real%2C%20Working%20Systems&amp;descAlignY=55&amp;descSize=18" width="100%"/>
