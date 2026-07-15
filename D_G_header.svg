@@ -1,17 +1,17 @@
 <svg width="800" height="200">
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-size="120" fill="gold" font-weight="bold">
-    <tspan>
+        font-size="120" fill="gold" font-weight="bold" letter-spacing="-10">
+    <tspan dx="0">
       <animate attributeName="opacity" values="0;1;0" dur="2s" begin="0s" repeatCount="indefinite"/>
       D
     </tspan>
-    <tspan>
+    <tspan dx="-20">
       <animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.3s" repeatCount="indefinite"/>
-    _
+      _
     </tspan>
-    <tspan>
+    <tspan dx="-20">
       <animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.6s" repeatCount="indefinite"/>
-    G
+      G
     </tspan>
   </text>
 </svg>
