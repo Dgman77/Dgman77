@@ -1,6 +1,13 @@
 <div align="center">
 
-[![D_G]( https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F%3CD_G%3E-%3CTHE_WAR%3E-%3CCOLOR%3E%3Fstyle%3D%3CSTYLE%3E%26logo%3D%3CLOGO%3E%26logoColor%3D%3CBLUE%3E)
+<svg width="200" height="80">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-size="40" fill="#000">
+    <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+    D_G
+  </text>
+</svg>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1F3864,100:4A90D9&amp;height=200&amp;section=header&amp;text=David%20Gideon%20J&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20GenAI%20Developer%20%7C%20Building%20Real%2C%20Working%20Systems&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
