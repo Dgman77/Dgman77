@@ -83,7 +83,7 @@ USB-portable offline AI assistant. Full RAG pipeline (HyDE query rewriting, pare
 
 **Stack:** llama-cpp-python · FAISS · FastAPI · Graphviz/Viz.js
 
-🔗 [GitHub Repo](https://github.com/Dgman77)
+🔗 [GitHub Repo](https://github.com/Dgman77/usb_llm)
 
 </td>
 </tr>
@@ -107,7 +107,7 @@ Gen-AI email suggested-response system built for Hiver's open technical hiring c
 
 **Stack:** Python · Gemini API · TF-IDF · RAG
 
-🔗 [GitHub Repo](https://github.com/Dgman77)
+🔗 [GitHub Repo](https://github.com/Dgman77/Gen_ai_email)
 
 </td>
 </tr>
