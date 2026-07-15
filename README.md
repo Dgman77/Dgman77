@@ -1,6 +1,8 @@
 <div align="center">
   
 # D_G
+<img src="./D_G_header.svg" alt="D_G Wave" width="800"/>
+
 
 
 
