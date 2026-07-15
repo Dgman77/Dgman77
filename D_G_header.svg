@@ -1,0 +1,7 @@
+<svg width="800" height="250">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-size="120" fill="gold" font-weight="bold">
+    <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+    D_G
+  </text>
+</svg>
