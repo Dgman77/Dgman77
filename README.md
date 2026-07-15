@@ -1,7 +1,6 @@
 <div align="center">
   
-# D_G
-<img src="./D_G_header.svg" alt="D_G Wave" width="800"/>
+<img src="https://cdn.jsdelivr.net/gh/Dgman77/Dgman77@main/D_G_header.svg" alt="D_G Wave" width="800"/>
 
 
 
