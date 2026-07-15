@@ -119,7 +119,9 @@ Gen-AI email suggested-response system built for Hiver's open technical hiring c
 
 <div align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/Dgman77/Dgman77@main/stats.svg"/>
 
+<img src="https://cdn.jsdelivr.net/gh/Dgman77/Dgman77@main/top-langs.svg"/>
 
 <br/>
 
