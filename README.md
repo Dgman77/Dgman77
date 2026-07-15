@@ -1,10 +1,11 @@
 <div align="center">
-<img src=" https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F%3CD_G%3E-%3CTHE_WAR%3E-%3CCOLOR%3E%3Fstyle%3D%3CSTYLE%3E%26logo%3D%3CLOGO%3E%26logoColor%3D%3CBLUE%3E"/>
 
-**<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1F3864,100:4A90D9&amp;height=200&amp;section=header&amp;text=David%20Gideon%20J&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20GenAI%20Developer%20%7C%20Building%20Real%2C%20Working%20Systems&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+[![D_G]( https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F%3CD_G%3E-%3CTHE_WAR%3E-%3CCOLOR%3E%3Fstyle%3D%3CSTYLE%3E%26logo%3D%3CLOGO%3E%26logoColor%3D%3CBLUE%3E)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1F3864,100:4A90D9&amp;height=200&amp;section=header&amp;text=David%20Gideon%20J&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20GenAI%20Developer%20%7C%20Building%20Real%2C%20Working%20Systems&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=1F3864&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=RAG+Pipelines+%7C+FAISS+%7C+LLM+Fine-Tuning;Building+Offline-First+AI+Systems;Turning+Prototypes+Into+Deployed+Products" alt="Typing SVG" />
-**
+
 
 <br/>
 
