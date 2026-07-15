@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://cdn.jsdelivr.net/gh/Dgman77/Dgman77@main/D_G_header.svg" alt="D_G Wave" width="800"/>
+<img src="https://gist.github.com/Dgman77/f3da337e2a5e460f41910f0480141f6b.js" alt="D_G Wave" width="800"/>
 
 
 
