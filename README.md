@@ -119,8 +119,7 @@ Gen-AI email suggested-response system built for Hiver's open technical hiring c
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dgman77&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dgman77&layout=compact&hide_border=true&title_color=1F3864&text_color=333333" />
+
 
 <br/>
 
