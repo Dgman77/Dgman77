@@ -1,7 +1,14 @@
 <svg width="800" height="250">
+  <defs>
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFD700">
+        <animate attributeName="offset" values="0;1;0" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#FFF8DC"/>
+    </linearGradient>
+  </defs>
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-size="120" fill="gold" font-weight="bold">
-    <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+        font-size="120" fill="url(#shine)" font-weight="bold">
     D_G
   </text>
 </svg>
