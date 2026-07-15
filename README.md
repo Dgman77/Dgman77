@@ -1,7 +1,21 @@
 <div align="center">
 
-<script src="https://gist.github.com/Dgman77/f3da337e2a5e460f41910f0480141f6b.js"></script> 
-
+<svg width="800" height="200">
+<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="120" fill="gold" font-weight="bold" letter-spacing="-10">
+<tspan dx="0">
+<animate attributeName="opacity" values="0;1;0" dur="2s" begin="0s" repeatCount="indefinite"/>
+D
+</tspan>
+<tspan dx="-20">
+<animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.3s" repeatCount="indefinite"/>
+_
+</tspan>
+<tspan dx="-20">
+<animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+G
+</tspan>
+</text>
+</svg>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1F3864,100:4A90D9&amp;height=200&amp;section=header&amp;text=David%20Gideon%20J&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20GenAI%20Developer%20%7C%20Building%20Real%2C%20Working%20Systems&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
