@@ -1,20 +1,6 @@
 <div align="center">
-  
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Embed Gist Example</title>
-</head>
-<body>
-  <h1>Title</h1>
 
-  <!-- This script will pull in your gist -->
-  <script src="https://gist.github.com/Dgman77/f3da337e2a5e460f41910f0480141f6b.js"></script>
-
-</body>
-</html>
-
+<script src="https://gist.github.com/Dgman77/f3da337e2a5e460f41910f0480141f6b.js"></script>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1F3864,100:4A90D9&amp;height=200&amp;section=header&amp;text=David%20Gideon%20J&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20GenAI%20Developer%20%7C%20Building%20Real%2C%20Working%20Systems&amp;descAlignY=55&amp;descSize=18" width="100%"/>
