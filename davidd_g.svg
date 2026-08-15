@@ -1,14 +1,38 @@
-<svg width="900" height="250">
-  <!-- Gradient background -->
+<svg width="900" height="250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
   <defs>
+    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1F3864"/>
+      <stop offset="100%" stop-color="#4A90D9"/>
+    </linearGradient>
     <linearGradient id="golden" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FFD700"/>
       <stop offset="100%" stop-color="#FFA500"/>
     </linearGradient>
   </defs>
 
-  <!-- Primary: D_G animated -->
-  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle"
+  <!-- Animated wave background -->
+  <g transform="translate(450, 125) scale(1,1) translate(-450,-125)">
+    <path d="M0 0L 0 120Q 225 160 450 130T 900 155L 900 0 Z" fill="url(#linear)" opacity="0.4">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcMode="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        values="M0 0L 0 120Q 225 160 450 130T 900 155L 900 0 Z;
+                M0 0L 0 145Q 225 160 450 140T 900 130L 900 0 Z;
+                M0 0L 0 165Q 225 135 450 165T 900 130L 900 0 Z;
+                M0 0L 0 120Q 225 160 450 130T 900 155L 900 0 Z"/>
+    </path>
+  </g>
+
+  <!-- Full name -->
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="35%" 
+        font-size="45" font-weight="700" fill="#ffffff">
+    David Gideon J
+  </text>
+
+  <!-- Short form D_G with golden animation -->
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle"
         font-size="120" fill="url(#golden)" font-weight="bold" letter-spacing="-10">
     <tspan dx="0">
       <animate attributeName="opacity" values="0;1;0" dur="2s" begin="0s" repeatCount="indefinite"/>
@@ -22,11 +46,5 @@
       <animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.6s" repeatCount="indefinite"/>
       G
     </tspan>
-  </text>
-
-  <!-- Secondary: Full name alongside -->
-  <text x="50%" y="75%" text-anchor="middle" dominant-baseline="middle"
-        font-size="45" font-weight="700" fill="url(#golden)">
-    David Gideon J
   </text>
 </svg>
