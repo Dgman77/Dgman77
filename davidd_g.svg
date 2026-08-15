@@ -1,5 +1,5 @@
 <svg width="900" height="250">
-  <!-- Background gradient -->
+  <!-- Gradient background -->
   <defs>
     <linearGradient id="golden" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FFD700"/>
@@ -7,7 +7,7 @@
     </linearGradient>
   </defs>
 
-  <!-- Short form with wave animation -->
+  <!-- Primary: D_G animated -->
   <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle"
         font-size="120" fill="url(#golden)" font-weight="bold" letter-spacing="-10">
     <tspan dx="0">
@@ -24,10 +24,9 @@
     </tspan>
   </text>
 
-  <!-- Full name below, fading in -->
+  <!-- Secondary: Full name alongside -->
   <text x="50%" y="75%" text-anchor="middle" dominant-baseline="middle"
         font-size="45" font-weight="700" fill="url(#golden)">
-    <animate attributeName="opacity" values="0;0;1" dur="3s" begin="1s" fill="freeze"/>
     David Gideon J
   </text>
 </svg>
